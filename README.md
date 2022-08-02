@@ -26,7 +26,7 @@ launch jupyter
 <code>$jupyter lab --ip 0.0.0.0</code>
 <br>
 
-Local host for jupyter http://127.0.0.1/8501
+Local host for jupyter http://127.0.0.1/8888
 <br>
 
 Streamlit default port is 8501
