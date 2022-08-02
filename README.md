@@ -45,5 +45,5 @@ Use quote.py to get quotes every minute: <br>
 
 <code>* 14-20 * * 1-5</code>
 
-“At every minute from 31 through 59 past every hour from 13 through 14 on every day-of-week from Monday through Friday.” <br>
+“At every minute from 31 through 59 past the 13th hour on every day-of-week from Monday through Friday.” <br>
 <code>31-59 13 * * 1-5</code>
