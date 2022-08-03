@@ -41,9 +41,9 @@ Use last.py to get overnight price (previous close for next day) “at 00:00 on 
 
 Use quote.py to get quotes every minute: <br>
 
-“At every minute past every hour from 14 through 20 on every day-of-week from Monday through Friday.”
+“At every minute past every hour from 14 through 19 on every day-of-week from Monday through Friday.”
 
-<code>* 14-20 * * 1-5</code>
+<code>* 14-19 * * 1-5</code>
 
 “At every minute from 31 through 59 past the 13th hour on every day-of-week from Monday through Friday.” <br>
 <code>31-59 13 * * 1-5</code>
